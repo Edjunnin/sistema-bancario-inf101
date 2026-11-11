@@ -1,0 +1,11 @@
+# Executaveis e binarios compilados
+*.exe
+*.out
+*.o
+
+# Arquivo duplicado local
+main.cpp
+
+# Configuracoes de IDE
+.vscode/
+.idea/
