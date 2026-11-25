@@ -15,3 +15,8 @@ Criação de um sistema simples para cadastrar apenas uma conta, usando variáve
 
 ### ETAPA 2 (11/11/2026)
 O sistema foi expandido para conseguir guardar até 100 contas ao mesmo tempo usando vetores. Agora também dá para fazer depósitos, saques, transferências entre duas contas e tirar o extrato de tudo que foi movimentado.
+
+---
+
+### ETAPA 3 (25/11/2026)
+Adicionada a gravação permanente dos dados em arquivos de texto (`contas.txt` e `movimentacoes.txt`) usando funções próprias de leitura e salvamento. Assim, ao fechar e abrir o programa novamente, todas as contas, saldos e extratos continuam salvos.
